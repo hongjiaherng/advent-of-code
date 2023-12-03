@@ -70,7 +70,9 @@ mod tests {
             xtwone3four
             4nineeightseven2
             zoneight234
-            7pqrstsixteen",
+            7pqrstsixteen
+            eighthree
+            sevenine",
         );
         assert_eq!(result, 281);
     }
